@@ -6,7 +6,7 @@
 	<title>ROHAN PERSONAL SITE</title>
 </head>
 
-<body>
+<body style="background-color: #fce38a; ">
 	<table cellspacing="20">
 		<tr>
 			<td>
